@@ -9,4 +9,4 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 1. Download [Composer](https://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
 2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
 
-![GitHub Logo](/webroot/img/hawhq_test_result.png)
+![GitHub Logo](/webroot/img/lawhq_test_result.png)
