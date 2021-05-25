@@ -1,4 +1,4 @@
-# CakePHP Test Files For LawHQ
+# CakePHP Test
 
 Built this test with [CakePHP](https://cakephp.org) 3.9.
 
